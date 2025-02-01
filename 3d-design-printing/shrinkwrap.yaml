@@ -1,0 +1,18 @@
+dependencies:
+  gsap: 3.12.5
+  particles.js: 2.0.0
+packages:
+  /gsap/3.12.5:
+    dev: false
+    resolution:
+      integrity: sha512-srBfnk4n+Oe/ZnMIOXt3gT605BX9x5+rh/prT2F1SsNJsU1XuMiP0E2aptW481OnonOGACZWBqseH5Z7csHxhQ==
+  /particles.js/2.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-8e0JIqkRbMMPlFBnF9f+92hX1s07jdkd3tqB8uHE9L+cwGGjIYjQM7QLgt0FQ5MZp6SFFYYDm/Y48pqK3ZvJOQ==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  gsap: ^3.12.2
+  particles.js: ^2.0.0

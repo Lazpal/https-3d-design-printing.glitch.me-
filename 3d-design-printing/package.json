@@ -1,0 +1,17 @@
+{
+  "name": "3d-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio για 3D σχεδίαση και εκτύπωση",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.5",
+    "express": "^4.21.2",
+    "gsap": "^3.12.7"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
