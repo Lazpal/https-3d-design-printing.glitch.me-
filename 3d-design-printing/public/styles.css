@@ -744,3 +744,13 @@ section {
     transition: 0.2s ease-in-out;
     letter-spacing: 2px;
 }
+
+/* Container για κεντρικό περιεχόμενο */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
